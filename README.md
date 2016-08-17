@@ -3,7 +3,9 @@ aLzAyAnI XBMC Addons Repository
 Author: mOhD aLzAyAnI (aLzAyAnI@gmail.com)
 Twitter: @hadynz
 Version: 1.0.0
+
 Github: https://github.com/alzayani/repository.aLzAyAnI.xbmc-addons
+
 Introduction
 
 This repository contains a number of XBMC addons that are focused around providing Arabic streaming content.
