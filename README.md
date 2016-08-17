@@ -1,7 +1,7 @@
 aLzAyAnI XBMC Addons Repository
 
 Author: mOhD aLzAyAnI (aLzAyAnI@gmail.com)
-Twitter: @hadynz
+Twitter: @mOhDaLzAyAnI
 Version: 1.0.0
 
 Github: https://github.com/alzayani/repository.aLzAyAnI.xbmc-addons
