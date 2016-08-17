@@ -115,21 +115,21 @@
 </addon>
 
 <addon
-  id="plugin.video.alqudseyes"
+  id="plugin.video.movizland"
   version="2.3.0"
-  name="Alqudseyes"
-  provider-name="Bisha">
+  name="movizland"
+  provider-name="aLzAyAnI 33202444">
   <requires>
     <import addon="xbmc.python"
-            version="2.1.0"/>
+            version="1.0.8"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
              library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Alqudseyes vod Arabic plugin</summary>
-    <description>Alqudseyes Arabic plugin”</description>
+    <summary>movizland vod Arabic plugin</summary>
+    <description>movizland Arabic plugin”</description>
 
     <platform>all</platform>
   </extension>
