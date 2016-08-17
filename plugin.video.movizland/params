@@ -1,0 +1,17 @@
+
+column==1
+sortorder==1
+plugin_id==plugin.video.movizland
+section==arabic
+subsection==general
+appversion==4
+version==1.0.7
+plugin_title==MoviZland
+plugin_label==MoviZland version==1.0.7 Made by mfaraj,opesboy,khldon
+metadata==True
+unicode_str==
+playlist==False
+symlink==False
+fanart==True
+playstr==mode=8,mode=8
+,mode=8
